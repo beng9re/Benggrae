@@ -2,7 +2,7 @@
 
 I'm Benggrae. 
 
-I am a backend engineer
+I'm Backend engineer
 
 
 
