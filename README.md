@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋
 
-I'm Benggrae. 
+I'm beng9re. 
 
 I'm Backend engineer
 
@@ -21,12 +21,6 @@ I'm Backend engineer
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
   
-📚 TIL 
-<div>
-  <a href="https://www.notion.so/kimbeng/f7398d0ab07c4f80a6fc952386f569d8?v=b0c82d42fb184bd78ef85bb7733295b4 target="_blank"">
-    <img src="https://img.shields.io/badge/TIL-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</div>
 
 ----  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benggrae&hide=html,css,c&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
