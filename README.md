@@ -23,7 +23,7 @@ I'm Backend engineer
   
 
 ----  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benggrae&hide=html,css,c&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beng9re&hide=html,css,c&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Benggrae/Benggrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
